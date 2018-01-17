@@ -11,7 +11,7 @@
 
 * Compile the crystal code
 ```
-$ crystal build crystal_prime.cr
+$ crystal build --release crystal_prime.cr
 ```
 
 * Run the benchmark
